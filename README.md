@@ -1,6 +1,6 @@
 vs Clay Tord was made using the [Kade Engine](https://github.com/KadeDev/Kade-Engine)
 
-Credits to [Mrs. Boooooomer](https://twitter.com/mrsbooooomer) for the clay model
+Credits to [Mrs. Boooooomer](https://twitter.com/mrsbooooomer) for the clay models!
 
 **HUGE NOTICE**
 
