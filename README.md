@@ -1,6 +1,7 @@
 vs Clay Tord was made using the [Kade Engine](https://github.com/KadeDev/Kade-Engine)
 
 Credits to [Mrs. Boooooomer](https://twitter.com/mrsbooooomer) for the clay models!
+Also Credits to [bbpanzu](https://twitter.com/bbsub3) for the original [vsTord](https://gamebanana.com/mods/44406) mod!
 
 **HUGE NOTICE**
 
