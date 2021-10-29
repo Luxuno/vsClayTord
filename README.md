@@ -1,4 +1,4 @@
-vs Clay Tord was made using the https://github.com/KadeDev/Kade-Engine
+vs Clay Tord was made using the Kade Engine: https://github.com/KadeDev/Kade-Engine
 
 **HUGE NOTICE**
 
